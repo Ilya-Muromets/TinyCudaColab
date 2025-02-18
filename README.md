@@ -1,2 +1,4 @@
 # TinyCudaColab
 the wheel to build tinycudann for whatever the free default GPU thing is
+
+[Download Latest Wheel](https://github.com/Ilya-Muromets/TinyCudaColab/releases/latest/download/tinycudann-colab-gpu.whl)
